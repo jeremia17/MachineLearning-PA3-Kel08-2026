@@ -48,8 +48,7 @@ uvicorn
 pydantic
 streamlit
 
-command:
-pip install -r requirements.txt
+command: pip install -r requirements.txt
 
 
 ## 6. Menjalankan API (`app.py`)
